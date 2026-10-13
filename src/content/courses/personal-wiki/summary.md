@@ -3,6 +3,15 @@ title: 개인 위키 과정 요약
 updated: '2026-10-13'
 ---
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px">
+<iframe src="https://www.youtube-nocookie.com/embed/38wjz18ienc" title="개인 위키란 무엇이고, 어떻게 만드나" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+
+과정 안내 영상 (8분) — 13개 강좌를 시작하기 전에
+
+- 쇼츠: https://youtube.com/shorts/CBHKSAzhFLs
+- 쇼츠: https://youtube.com/shorts/BeTu73rt6Ps
+
 ## 이 과정에서 만드는 것
 
 흩어진 메모·자료를 **폴더와 마크다운 파일**로 쌓아 두고, 클로드가 읽고 정리하고 답해 주는 **나만의 지식 베이스(개인 위키)** 를 직접 만듭니다. 클로드 데스크탑 앱의 **Code 탭**이 기본 도구이고, 터미널 방법은 '터미널로도 할 수 있어요'에 접어 두었습니다. 벡터 DB·검색 서버 같은 기술은 쓰지 않습니다.
