@@ -3,7 +3,7 @@ title: 카톡 오픈채팅 챗봇 만들기 과정 요약
 updated: '2026-10-06'
 ---
 
-<div style="position:relative;padding-bottom:177.78%;height:0;overflow:hidden;border-radius:12px;max-width:360px;margin:0 auto">
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px">
 <iframe src="https://www.youtube-nocookie.com/embed/cUt4jGWf7rw" title="메신저봇, 어떻게 만들고 무엇에 쓰나" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 </div>
 
