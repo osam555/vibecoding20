@@ -11,6 +11,7 @@ const MORE = [
   { href: "/tips", tag: "Tips", title: "짧은 팁", desc: "command not found부터 hydration 에러까지, 막히는 지점 15개의 1분 해결책." },
   { href: "/repos", tag: "Repo", title: "추천 오픈소스", desc: "과정에서 쓰는 도구와 다음 단계 도구. 왜 쓰는지, 몇 강에서 나오는지 함께." },
   { href: "/ideas", tag: "Ideas", title: "프로젝트 아이디어", desc: "20일 크기로 기획해둔 프로젝트 6개. PLAN.md에 바로 옮길 수 있는 형식." },
+  { href: "/cases", tag: "Cases", title: "구축 사례", desc: "이 과정의 도구로 실제 사업자에게 만들어 드린 것. 홈페이지 + 24시간 챗봇 + 카드뉴스, 무엇을 어떻게 만들었는지." },
 ];
 
 const FAQ = [

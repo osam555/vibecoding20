@@ -10,6 +10,7 @@ export const NAV = [
   { href: "/tips", label: "팁" },
   { href: "/repos", label: "Repo" },
   { href: "/ideas", label: "아이디어" },
+  { href: "/cases", label: "구축 사례" },
 ];
 
 export function NavLinks() {
