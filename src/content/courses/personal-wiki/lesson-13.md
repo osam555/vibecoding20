@@ -14,10 +14,10 @@ part: 3부 · 활용
 영상으로 먼저 분위기를 보세요(2분 31초).
 
 <div style="position:relative;padding-bottom:56.25%;height:0;margin:1.25rem 0;overflow:hidden;border-radius:12px">
-<iframe src="https://www.youtube-nocookie.com/embed/9Dk9hqJVtJo" title="내 위키를 지식그래프로 보기" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/X4NbXsSTHos" title="내 위키를 지식그래프로 보기" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<small>[유튜브에서 보기](https://youtu.be/9Dk9hqJVtJo). 영상이 안 나오면 이 링크로 열어요.</small>
+<small>[유튜브에서 보기](https://youtu.be/X4NbXsSTHos). 영상이 안 나오면 이 링크로 열어요.</small>
 
 ![내 위키를 지식그래프로 보기 — 영상 썸네일](/images/lectures/personal-wiki-13.jpg)
 
