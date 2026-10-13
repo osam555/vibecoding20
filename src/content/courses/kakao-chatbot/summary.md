@@ -3,6 +3,15 @@ title: 카톡 오픈채팅 챗봇 만들기 과정 요약
 updated: '2026-10-06'
 ---
 
+<div style="position:relative;padding-bottom:177.78%;height:0;overflow:hidden;border-radius:12px;max-width:360px;margin:0 auto">
+<iframe src="https://www.youtube-nocookie.com/embed/cUt4jGWf7rw" title="메신저봇, 어떻게 만들고 무엇에 쓰나" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+
+과정 안내 영상 (9분) — 12개 강좌를 시작하기 전에
+
+- 쇼츠: https://youtube.com/shorts/226ThGyjAlE
+- 쇼츠: https://youtube.com/shorts/CAA-yfbYrgU
+
 ## 이 과정에서 만드는 것
 
 내가 운영하는 카톡 오픈채팅·단톡방에서 **호출어로 부르면 내 자료를 바탕으로 짧게 답하고, 정해진 시각에 안내를 올리는 챗봇**이에요. 클로드 데스크탑의 Code 탭에게 단계를 하나씩 시키고, 사람은 폰 설정, 지식 확인, 승인, 선 정하기를 해요. 터미널로도 할 수 있어요 라는 보조 설명이 강마다 붙어 있어요.
