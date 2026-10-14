@@ -3,6 +3,15 @@ title: 홈페이지 만들기 과정 요약
 updated: '2026-10-06'
 ---
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px">
+<iframe src="https://www.youtube-nocookie.com/embed/XmF7nslCvBs" title="사업자 홈페이지 + 챗봇, 어떻게 만드나 — 영리빙 사례" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" allow="accelerometer; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
+
+과정 안내 영상 (8분) — 사업자 홈페이지+챗봇 구축 사례
+
+쇼츠: https://youtube.com/shorts/x_-kasQ_aFQ , https://youtube.com/shorts/0nzvo1_H1p4
+
+
 ## 이 과정에서 만드는 것
 
 코딩을 몰라도, **클로드 데스크탑 앱의 Code 탭**에 한국어로 말해서 **내 도메인으로 공개되는 홈페이지**를 만듭니다. 가장 쉬운 한 페이지 소개 사이트로 시작해, 사진·지도·디자인·여러 페이지·검색 등록까지 한 단계씩 늘려 갑니다. 터미널은 열지 않아도 되고, 터미널 방법은 각 강의의 '터미널로도 할 수 있어요'에 보조로 남겨 두었습니다.
