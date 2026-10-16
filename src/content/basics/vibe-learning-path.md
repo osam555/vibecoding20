@@ -43,7 +43,7 @@ sources:
 | 블로그 글을 꾸준히 | [네이버 블로그 자동화](/lectures/naver-blog) | 7강 |
 | 짧은 영상 | [쇼츠 자동화](/lectures/shorts) | 8강 |
 | 글 하나를 여러 채널에 | [SNS 배포 자동화](/lectures/sns) | 8강 |
-| 내 책을 쇼츠로 꾸준히 홍보 | [책 발간 후 쇼츠 홍보 자동화](/lectures/book-shorts-promo) | 10강 |
+| 내 책을 쇼츠로 꾸준히 홍보 | [책 발간 후 쇼츠 홍보 자동화](/lectures/book-shorts-promo) | 12강 |
 | 내 방에 질문에 답하는 챗봇 | [카톡 오픈채팅 챗봇 만들기](/lectures/kakao-chatbot) | 12강 |
 | 롱폼+쇼츠+썸네일 시리즈 | [영상 자동화](/lectures/video-automation) | 8강 |
 
