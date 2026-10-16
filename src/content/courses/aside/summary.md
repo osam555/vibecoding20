@@ -1,7 +1,27 @@
 ---
-title: Aside 과정 전체 요약
-updated: '2026-10-06'
+title: Aside 업무 자동화 — 전체 요약
+updated: '2026-10-16'
 ---
+
+## 사례로 찾기 (2026-10-16 추가)
+
+하고 싶은 일부터 고르세요. 같은 일을 실제로 운영 중인 사례와 해당 강의로 바로 갑니다.
+
+| 하고 싶은 일 | 실제 사례 | 방식 | 강의 |
+|---|---|---|---|
+| AI 영상 생성 사이트에 프롬프트 넣고 결과 받기 | 클레이 애니 채널 장면 영상 | repl | [16강](/lectures/aside/lesson-16) |
+| 이미지 → 영상 일괄 생성 | 강의·책 홍보 쇼츠 | exec | [16강](/lectures/aside/lesson-16) |
+| 유튜브 업로드·고정 댓글 | 매일 아침 쇼츠 업로드, 예약 영상 고정 댓글 | repl / exec | [16강](/lectures/aside/lesson-16) · [11강](/lectures/aside/lesson-11) |
+| 개인 SNS에 매일 초안 | 개인 페이스북 하루 두 번 | repl | [17강](/lectures/aside/lesson-17) · [7강](/lectures/aside/lesson-07) |
+| 블로그 임시저장 | 네이버 블로그 | repl / exec | [17강](/lectures/aside/lesson-17) · [9강](/lectures/aside/lesson-09) |
+| 메일·문서 매일 수집 | Gmail·구글 문서 → 개인 위키 | repl | [18강](/lectures/aside/lesson-18) |
+| 로그인 필요한 사이트 목록 모으기 | 학습 사이트 영상 목록 | repl | [18강](/lectures/aside/lesson-18) |
+| 사내 표·ERP 데이터 꺼내기 | 예산표 27장, 인건비, 프린터 95대 | 에이전트 | [19강](/lectures/aside/lesson-19) |
+| 고객 답장 초안·추적 | 임대 문의, 해외 매장 재고 문의 | 스킬·에이전트 | [19강](/lectures/aside/lesson-19) |
+| 다른 에이전트·스케줄러와 연결 | 루틴 한도 아끼기, Hermes 연동 | CLI | [19강](/lectures/aside/lesson-19) |
+| 검색 등록·속도 점검 | 서치 콘솔, Core Web Vitals | 앱 브라우저 | [5강](/lectures/aside/lesson-05) · [6강](/lectures/aside/lesson-06) |
+
+> **두 가지 브라우저** 1~14강은 Claude 데스크톱 앱 안의 브라우저와 Computer Use로 **지켜보며** 하는 자동화입니다. 15~19강은 별도 앱인 **Aside AI 브라우저**를 명령줄(`aside repl`·`aside exec`)로 불러 **매일 혼자 도는 업무**로 만든 실전 사례입니다. 처음이면 1강부터, 이미 Aside를 쓰고 있다면 15강부터 보세요.
 
 ## 이 과정에서 만드는 것
 
@@ -32,6 +52,13 @@ Claude Code 앱의 **Aside 브라우저**와 연결 도구(MCP)로, 내 가게·
 12. [12강](/lectures/aside/lesson-12) — 대본부터 쇼츠까지 영상 파이프라인
 13. [13강](/lectures/aside/lesson-13) — 반복 작업을 스킬 파일로 저장해 한 줄 호출
 14. [14강](/lectures/aside/lesson-14) — HyperFrames(·Remotion)로 코드 영상 만들기
+
+6부 · 실전 사례 — Aside 업무 자동화
+15. [15강](/lectures/aside/lesson-15) — Aside CLI 기초: repl과 exec, 공통 함정 다섯 가지
+16. [16강](/lectures/aside/lesson-16) — 사례 ① 영상: AI 영상 생성, 유튜브 업로드·고정 댓글
+17. [17강](/lectures/aside/lesson-17) — 사례 ② 블로그·SNS 발행: 초안까지 자동, 발행은 사람이
+18. [18강](/lectures/aside/lesson-18) — 사례 ③ 수집·관리: 메일·문서·학습 사이트·콘솔
+19. [19강](/lectures/aside/lesson-19) — 사례 ④ 외부 사례: 지피터스 스터디 사례글 30편 등 업무별 지도
 
 ## 실습 결과물
 

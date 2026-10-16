@@ -34,7 +34,7 @@ part: 1부 · 발췌
 2부와 3부에서 쓰는 방법은 이 사이트에 이미 있어요. 새 기술을 만들지 않고 링크로 연결해요.
 
 - 쇼츠 만들기: [쇼츠 자동화](/lectures/shorts), [영상 자동화](/lectures/video-automation)
-- 블로그·SNS와 브라우저 조작: [Aside 완전 가이드](/lectures/aside), [SNS 배포 자동화](/lectures/sns), [네이버 블로그 자동화](/lectures/naver-blog)
+- 블로그·SNS와 브라우저 조작: [Aside 업무 자동화](/lectures/aside), [SNS 배포 자동화](/lectures/sns), [네이버 블로그 자동화](/lectures/naver-blog)
 
 이 과정에서 새로 다루는 것은 **책 홍보에 맞춘 차이점**이에요. 책 원고에서 뽑는 법, 영상 끝에 붙이는 표지·구매 링크 카드, 시리즈 번호, 그리고 단톡방 안내의 큰 그림이에요.
 
