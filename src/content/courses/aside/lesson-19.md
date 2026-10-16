@@ -1,7 +1,7 @@
 ---
 number: 19
 title: 사례 ④ 외부 사례 — 다른 사람들은 Aside로 무엇을 자동화하나
-subtitle: 지피터스 스터디 사례글 30편과 블로그·리뷰에서 모은 업무별 사례 지도
+subtitle: 지피터스 스터디 사례글 30편, 블로그·리뷰, 유튜브·깃허브에서 모은 업무별 사례 지도
 goal: 직장·부업·개인 업무에서 다른 사람들이 Aside로 자동화한 실제 사례를 업무 종류별로 훑어보고, 내 일에 바로 옮길 사례 하나를 고릅니다.
 minutes: 40
 part: 6부 · 실전 사례 — Aside 업무 자동화
@@ -89,6 +89,44 @@ API도 없고 복사도 막힌 사내 화면에서 데이터를 꺼내는 사례
 - [설정 문서는 한 번 쓰고 끝나는 게 아니다](https://www.gpters.org/nocode/post/eijeonteu-seoljeong-munseoneun-han-beon-sseugo-ggeutnaneun-ge-anideoragoyo-xqj8opguKCOSRAp)
 - [리서치 에이전트의 판단 기준 만들기](https://www.gpters.org/data-science/post/creating-judgment-criteria-research-MbuZlmPWHX34DhA)
 - [같은 스크립트를 다시 돌린 게 아니었다 — 재생 경로를 바꾼 재도전](https://www.gpters.org/nocode/post/didnt-run-same-script-svKu90M8jCsER7y) · [자동 시험에서 검증과 보류까지](https://www.gpters.org/nocode/post/06-asides-automatic-test-rK4UwQkHLbCyf8L)
+
+---
+
+## 7. 유튜브에서 찾은 사례 — 화면으로 보고 따라 하기
+
+영상 설명란으로 쓰임새를 확인한 것만 골랐습니다(조회수는 2026-10-16 기준).
+
+| 사례 | 무엇을 | 방식 | 영상 |
+|---|---|---|---|
+| 네이버 블로그 여행기 | 내 글 말투를 익힌 뒤 드라이브 사진으로 여행기 작성, 비공개로 올림 | 에이전트 → 스킬 → 매주 루틴 | [보기](https://youtu.be/1V27x7n4g78) · 3.4만 |
+| 배달앱 리뷰 답글 | 지난 답글로 말투 학습, 긍정 리뷰에만 답글, 부정 리뷰는 손대지 않음 | 에이전트(자는 동안 미리) | [보기](https://youtu.be/63NzgKt_kN0) |
+| Claude Code에 MCP로 붙이기 | 썸네일 생성, 대본 사실 확인, 블로그 글 올리기·고쳐 올리기 | MCP | [보기](https://youtu.be/aWhZEnKZNz4) · 3.8천 |
+| 유튜브 채널 70곳 조사 | 로그인이 필요한 채널 자료를 Aside가 수집 | CLI·MCP | [보기](https://youtu.be/apgwGvax6M4) · 1.6만 |
+| 영상 편집부터 업로드까지 | 컷·자막·썸네일 A/B·업로드, 뉴스레터·카드뉴스 | 에이전트(구독 모델 연결) | [보기](https://youtu.be/ATGo8MiY1Mk) · 2.5만 |
+| 신청 명단 정리와 안내 문자 | 설문 신청자 31명 정리 후 안내 | 에이전트 | [보기](https://youtu.be/pR2FGB55_dg) · 6.4천 |
+| 실제로 쓰는 10가지 | 지도에 맛집 저장, 노션 권한 일괄 변경, SNS DM 답변, 커뮤니티 모니터링 | 에이전트·MCP·스킬 | [보기](https://youtu.be/jxvFnYi28NY) · 2.3만 |
+| 온라인 서점 반복 주문 | 책 10권을 결제 직전까지만 담기 | 에이전트, 결제는 사람 | [보기](https://youtu.be/2NNAF2VZ_6U) · 7.1만 |
+
+**영상들이 남긴 주의점**: 공개 게시가 확인 창 없이 나간 사례가 있어, 게시·결제·삭제·메시지는 맡기지 않거나 Final confirm을 켭니다. 처음엔 말투·규칙부터 학습시키고, 한 번에 다 맡기지 않습니다. 숫자는 원본으로 다시 확인합니다.
+
+---
+
+## 8. 깃허브에서 찾은 사례 — 다른 도구와 잇는 오픈소스
+
+README로 실제 Aside를 쓰는지 확인한 저장소입니다. 대부분 **맥에서 Aside가 켜져 있어야** 동작합니다.
+
+| 저장소 | 무엇을 만들었나 | 방식 |
+|---|---|---|
+| [aside-telegram-bridge](https://github.com/SaiAmartya/aside-telegram-bridge) | 폰 텔레그램으로 Aside에 지시하고 진행 상황 받기 | CLI 백그라운드 서비스 |
+| [aside-skill](https://github.com/lidge-jun/aside-skill) | Codex·Claude Code가 상황에 따라 repl과 exec 중 고르게 하는 스킬 | 스킬 |
+| [kakao-headless](https://github.com/JSap0914/kakao-headless) | 카톡을 읽고, **사람이 승인한 답장만** 보내기 | Aside 스킬 + CLI |
+| [aside-discord-bot](https://github.com/gurbaaz27/aside-discord-bot) | 디스코드 스레드 하나 = Aside 세션 하나, 승인은 버튼 | `aside exec --session` |
+| [hometabs](https://github.com/emanuilo/hometabs) | 텔레그램으로 집 맥의 로그인된 브라우저에서 조회 | Agent SDK + Aside MCP |
+| [browser-research-bridge](https://github.com/contiloop/browser-research-bridge) | ChatGPT가 내가 구독하는 사이트를 내 Aside로 검색·읽기 | CLI + 터널 |
+| [aside-browser-mcp](https://github.com/steggdev/aside-browser-mcp) | 다른 에이전트(Hermes)가 Aside 창을 직접 조작, 겪은 함정 문서화 | MCP repl |
+| [compare_ego_aside](https://github.com/ysys143/compare_ego_aside) | 브라우저 자동화 도구 6종을 장바구니 미션으로 비교 | CLI exec |
+
+**저장소들이 남긴 주의점**: 비밀번호·인증번호는 에이전트 채팅에 붙이지 않습니다. 원격으로 부를 때는 웹페이지 내용이 에이전트를 조종하는 위험(프롬프트 인젝션)이 있어, 되돌릴 수 없는 일은 먼저 묻게 합니다. 기본 모델 설정에 따라 내 Claude 구독이 쓰일 수 있습니다.
 
 ---
 

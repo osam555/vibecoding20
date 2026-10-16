@@ -58,7 +58,7 @@ Claude Code 앱의 **Aside 브라우저**와 연결 도구(MCP)로, 내 가게·
 16. [16강](/lectures/aside/lesson-16) — 사례 ① 영상: AI 영상 생성, 유튜브 업로드·고정 댓글
 17. [17강](/lectures/aside/lesson-17) — 사례 ② 블로그·SNS 발행: 초안까지 자동, 발행은 사람이
 18. [18강](/lectures/aside/lesson-18) — 사례 ③ 수집·관리: 메일·문서·학습 사이트·콘솔
-19. [19강](/lectures/aside/lesson-19) — 사례 ④ 외부 사례: 지피터스 스터디 사례글 30편 등 업무별 지도
+19. [19강](/lectures/aside/lesson-19) — 사례 ④ 외부 사례: 지피터스 사례글 30편·유튜브 8편·깃허브 8개 업무별 지도
 
 ## 실습 결과물
 
