@@ -23,7 +23,7 @@ part: 1부 · 준비와 톤 고르기
 Homebrew 로 한 번에: `brew install node python ffmpeg`
 :::
 ::: windows
-이 과정은 맥 기준이에요. Windows 는 WSL(Ubuntu)에서 같은 명령을 쓰되 Chrome 경로만 바뀌어요.
+PowerShell 에서 한 번에: `winget install OpenJS.NodeJS.LTS Python.Python.3.12 Gyan.FFmpeg Google.Chrome`. WSL 없이 Windows 에서 그대로 돌아가요. 렌더 명령의 `--browser-executable` 은 빼거나 `"C:\Program Files\Google\Chrome\Application\chrome.exe"` 로 바꿔요. 톤 고르기 스킬 설치는 3강에 있어요.
 :::
 
 ## 계정과 키

@@ -8,6 +8,17 @@ part: 1부 · 준비와 톤 고르기
 ---
 
 
+## 이 스킬 설치하기 (Windows · macOS)
+
+video-style 스킬은 공개 저장소 [osam555/video-style-skill](https://github.com/osam555/video-style-skill) 에 있어요. Claude Code 대화창에 두 줄만 입력하면 돼요.
+
+```
+/plugin marketplace add osam555/video-style-skill
+/plugin install video-style@video-style-skill
+```
+
+플러그인 명령이 막혀 있으면 저장소의 `plugins/video-style/skills/video-style` 폴더를 `%USERPROFILE%\.claude\skills\` (Windows) 또는 `~/.claude/skills/` (macOS) 아래에 복사해도 돼요.
+
 ## 톤을 먼저 정하는 이유
 
 그림체를 정하지 않고 이미지 프롬프트를 쓰면 컷마다 화풍이 흔들려요. 톤을 먼저 정하면 뒤의 모든 결정(움직임·전환·프롬프트 문구)이 한 줄에서 나와요. Ai-Con Lab 의 영상 [「클로드로 만든 모션그래픽 20가지 톤」](https://youtu.be/oCRQP5S-900)이 끝에서 묻는 세 질문을 그대로 절차로 만든 게 video-style 스킬이에요.
