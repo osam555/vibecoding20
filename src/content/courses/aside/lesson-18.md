@@ -29,7 +29,8 @@ aside skills show google-gmail     # 사용법 먼저 읽기
 aside skills show google-docs
 ```
 
-- 메일은 `gmail.search(계정, "검색어")` 로 찾습니다. 구글 계정이 여러 개면 계정 번호(0, 1, 2…)로 구분합니다.
+- 메일은 `gmail.search(uid, "검색어")` 로 찾고 `gmail.getThread` 로 스레드를 읽습니다. 먼저 `googleAccounts.print()` 로 내 구글 계정 목록과 각 `uid` 를 확인하세요. 계정이 여러 개면 이 `uid` 로 구분합니다.
+- 유튜브 전사·검색·댓글도 탭 없이 읽는 전역 도구(`youtube.getTranscript`·`youtube.search`·`youtube.getComments`)가 있습니다. `aside skills show youtube` 로 사용법을 먼저 읽으세요.
 - 문서는 내보내기 주소(txt·tsv)를 쿠키 `fetch` 로 받습니다. 한 번 호출에 **10개씩**(120초 제한).
 
 **함정**
