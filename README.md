@@ -26,4 +26,12 @@ npm run build    # 배포 전 확인
 
 ## 배포
 
-GitHub에 push 후 Vercel에서 저장소를 import하면 됩니다. 별도 환경변수는 없습니다.
+GitHub에 push 후 Vercel에서 저장소를 import하면 됩니다.
+
+환경변수는 하나입니다.
+
+| 이름 | 용도 | 없으면 |
+|---|---|---|
+| `GATE_PASSWORD` | 비밀번호 게이트(`src/lib/gate.ts` 의 `GATED_PATHS`, 지금은 설치 스킬 목록 페이지)의 비밀번호 | 게이트가 잠겨 아무도 못 봅니다 |
+
+값은 Vercel 프로젝트 환경변수에만 두고 저장소에는 넣지 않습니다. 게이트 경로를 늘리면 `src/proxy.ts` 의 `matcher` 에도 같이 넣습니다.
