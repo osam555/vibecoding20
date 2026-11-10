@@ -58,6 +58,8 @@ export function InteractiveGlobe() {
         arcHeight: 0.22,
       });
 
+      // WebGL 초기화 성공 신호(외부 시스템 cobe 와 동기화) — 폴백 이미지를 숨긴다
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setIsLoaded(true);
 
       const animate = () => {
